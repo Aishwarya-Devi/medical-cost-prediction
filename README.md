@@ -70,7 +70,7 @@ Accurately predicting medical costs is vital for both insurers and policyholders
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/medical-cost-prediction.git
+git clone https://github.com/Aishwarya-Devi/medical-cost-prediction.git
 cd medical-cost-prediction
 
 # (Optional) Create and activate a virtual environment
@@ -83,6 +83,14 @@ pip install -r requirements.txt
 # Launch Jupyter Notebook
 jupyter notebook
 =======
-# medical-cost-prediction
-Predict medical insurance costs using machine learning
->>>>>>> d9e05f2a282587baf57d1546bc1e00463756e63e
+🧪 Sample Prediction Output
+Predicted medical charges for input [35, female, BMI 26.2, 2 children, non-smoker, southeast]:
+➡ $7,236.89
+📸 Visualizations
+Charges vs Age
+
+BMI distribution
+
+Box plots comparing smoker/non-smoker charges
+
+Heatmap showing correlation between features
