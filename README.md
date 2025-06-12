@@ -67,14 +67,11 @@ Accurately predicting medical costs is vital for both insurers and policyholders
 ---
 
 ## 🚀 How to Run Locally
-
+'''bash
 # Clone the repo
 git clone https://github.com/Aishwarya-Devi/medical-cost-prediction.git
 cd medical-cost-prediction
 
-# (Optional) Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
@@ -82,7 +79,7 @@ pip install -r requirements.txt
 # Launch Jupyter Notebook
 jupyter notebook
 
-
+===
 ---
 ## 🧪 Sample Prediction Output
 
