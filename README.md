@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Medical Cost Prediction using Machine Learning
 
 This project focuses on predicting individual medical insurance charges using machine learning techniques. It uses features such as age, sex, BMI, number of children, smoking status, and region to forecast charges.
@@ -81,3 +82,7 @@ pip install -r requirements.txt
 
 # Launch Jupyter Notebook
 jupyter notebook
+=======
+# medical-cost-prediction
+Predict medical insurance costs using machine learning
+>>>>>>> d9e05f2a282587baf57d1546bc1e00463756e63e
