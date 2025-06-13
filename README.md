@@ -79,7 +79,6 @@ pip install -r requirements.txt
 # Launch Jupyter Notebook
 jupyter notebook
 
-===
 ---
 ## 🧪 Sample Prediction Output
 
@@ -88,12 +87,3 @@ Predicted medical charges for input [35, female, BMI 26.2, 2 children, non-smoke
 
 ---
 
-
-## 📸 Visualizations
-Charges vs Age
-
-BMI distribution
-
-Box plots comparing smoker/non-smoker charges
-
-Heatmap showing correlation between features
